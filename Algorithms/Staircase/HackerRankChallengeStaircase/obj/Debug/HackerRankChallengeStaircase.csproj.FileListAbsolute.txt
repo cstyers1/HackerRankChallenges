@@ -1,0 +1,6 @@
+c:\users\clayton\documents\visual studio 2013\Projects\HackerRankChallengeStaircase\HackerRankChallengeStaircase\bin\Debug\HackerRankChallengeStaircase.exe.config
+C:\Users\Clayton\documents\visual studio 2013\Projects\HackerRankChallengeStaircase\HackerRankChallengeStaircase\bin\Debug\HackerRankChallengeStaircase.exe
+C:\Users\Clayton\documents\visual studio 2013\Projects\HackerRankChallengeStaircase\HackerRankChallengeStaircase\bin\Debug\HackerRankChallengeStaircase.pdb
+C:\Users\Clayton\documents\visual studio 2013\Projects\HackerRankChallengeStaircase\HackerRankChallengeStaircase\obj\Debug\HackerRankChallengeStaircase.csprojResolveAssemblyReference.cache
+C:\Users\Clayton\documents\visual studio 2013\Projects\HackerRankChallengeStaircase\HackerRankChallengeStaircase\obj\Debug\HackerRankChallengeStaircase.exe
+C:\Users\Clayton\documents\visual studio 2013\Projects\HackerRankChallengeStaircase\HackerRankChallengeStaircase\obj\Debug\HackerRankChallengeStaircase.pdb

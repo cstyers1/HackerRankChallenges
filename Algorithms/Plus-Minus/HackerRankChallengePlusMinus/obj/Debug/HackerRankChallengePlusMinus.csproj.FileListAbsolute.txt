@@ -1,0 +1,6 @@
+c:\users\clayton\documents\visual studio 2013\Projects\HackerRankChallengePlusMinus\HackerRankChallengePlusMinus\bin\Debug\HackerRankChallengePlusMinus.exe.config
+c:\users\clayton\documents\visual studio 2013\Projects\HackerRankChallengePlusMinus\HackerRankChallengePlusMinus\bin\Debug\HackerRankChallengePlusMinus.exe
+c:\users\clayton\documents\visual studio 2013\Projects\HackerRankChallengePlusMinus\HackerRankChallengePlusMinus\bin\Debug\HackerRankChallengePlusMinus.pdb
+c:\users\clayton\documents\visual studio 2013\Projects\HackerRankChallengePlusMinus\HackerRankChallengePlusMinus\obj\Debug\HackerRankChallengePlusMinus.csprojResolveAssemblyReference.cache
+c:\users\clayton\documents\visual studio 2013\Projects\HackerRankChallengePlusMinus\HackerRankChallengePlusMinus\obj\Debug\HackerRankChallengePlusMinus.exe
+c:\users\clayton\documents\visual studio 2013\Projects\HackerRankChallengePlusMinus\HackerRankChallengePlusMinus\obj\Debug\HackerRankChallengePlusMinus.pdb

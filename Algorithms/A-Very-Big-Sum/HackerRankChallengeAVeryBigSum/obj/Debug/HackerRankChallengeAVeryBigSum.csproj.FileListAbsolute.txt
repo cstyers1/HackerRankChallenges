@@ -1,0 +1,6 @@
+c:\users\clayton\documents\visual studio 2013\Projects\HackerRankChallengeAVeryBigSum\HackerRankChallengeAVeryBigSum\bin\Debug\HackerRankChallengeAVeryBigSum.exe.config
+c:\users\clayton\documents\visual studio 2013\Projects\HackerRankChallengeAVeryBigSum\HackerRankChallengeAVeryBigSum\bin\Debug\HackerRankChallengeAVeryBigSum.exe
+c:\users\clayton\documents\visual studio 2013\Projects\HackerRankChallengeAVeryBigSum\HackerRankChallengeAVeryBigSum\bin\Debug\HackerRankChallengeAVeryBigSum.pdb
+c:\users\clayton\documents\visual studio 2013\Projects\HackerRankChallengeAVeryBigSum\HackerRankChallengeAVeryBigSum\obj\Debug\HackerRankChallengeAVeryBigSum.csprojResolveAssemblyReference.cache
+c:\users\clayton\documents\visual studio 2013\Projects\HackerRankChallengeAVeryBigSum\HackerRankChallengeAVeryBigSum\obj\Debug\HackerRankChallengeAVeryBigSum.exe
+c:\users\clayton\documents\visual studio 2013\Projects\HackerRankChallengeAVeryBigSum\HackerRankChallengeAVeryBigSum\obj\Debug\HackerRankChallengeAVeryBigSum.pdb

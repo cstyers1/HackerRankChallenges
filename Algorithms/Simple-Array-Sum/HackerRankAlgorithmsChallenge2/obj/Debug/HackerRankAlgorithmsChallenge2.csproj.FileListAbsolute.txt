@@ -1,0 +1,6 @@
+c:\users\clayton\documents\visual studio 2013\Projects\HackerRankAlgorithmsChallenge2\HackerRankAlgorithmsChallenge2\bin\Debug\HackerRankAlgorithmsChallenge2.exe.config
+c:\users\clayton\documents\visual studio 2013\Projects\HackerRankAlgorithmsChallenge2\HackerRankAlgorithmsChallenge2\bin\Debug\HackerRankAlgorithmsChallenge2.exe
+c:\users\clayton\documents\visual studio 2013\Projects\HackerRankAlgorithmsChallenge2\HackerRankAlgorithmsChallenge2\bin\Debug\HackerRankAlgorithmsChallenge2.pdb
+c:\users\clayton\documents\visual studio 2013\Projects\HackerRankAlgorithmsChallenge2\HackerRankAlgorithmsChallenge2\obj\Debug\HackerRankAlgorithmsChallenge2.csprojResolveAssemblyReference.cache
+c:\users\clayton\documents\visual studio 2013\Projects\HackerRankAlgorithmsChallenge2\HackerRankAlgorithmsChallenge2\obj\Debug\HackerRankAlgorithmsChallenge2.exe
+c:\users\clayton\documents\visual studio 2013\Projects\HackerRankAlgorithmsChallenge2\HackerRankAlgorithmsChallenge2\obj\Debug\HackerRankAlgorithmsChallenge2.pdb
